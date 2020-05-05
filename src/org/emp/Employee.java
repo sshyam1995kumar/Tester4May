@@ -8,8 +8,12 @@ public class Employee {
 	public void empName1() {
 		System.out.println("Employee name is: Shyam Kumar");
 	}
-	public void empName3() {
+	public void empName2() {
+		System.out.println("Employee name is: Shyam");
+	}
+		public void empName3() {
 		System.out.println("Employee name is: Kumar");
 	}
 
 	}
+
