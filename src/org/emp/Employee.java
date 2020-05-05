@@ -14,6 +14,9 @@ public class Employee {
 	public void empName3() {
 		System.out.println("Employee name is: Kumar");
 	}
+	public void empName4() {
+		System.out.println("Employee name is: Sami");
+	}
 	public void empName5() {
 		System.out.println("Employee name is: Kannan");
 	}
